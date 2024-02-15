@@ -1,5 +1,5 @@
 body{
-    background-color: yellow;
+    background: linear-gradient(red,black );
     color: black;
 }
 p{
