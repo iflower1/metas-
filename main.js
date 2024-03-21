@@ -13,3 +13,4 @@ for(let i=0; i<botoes.length;i++){
     textos[i].classList.add("ativo")
     }
     contadores[0].textContex = "Contagem Regressiva":
+    const tempoObjetivo1 = new Date("2024-12")
