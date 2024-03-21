@@ -12,4 +12,4 @@ for(let i=0; i<botoes.length;i++){
     botoes[i].classList.add("ativo");
     textos[i].classList.add("ativo")
     }
-    contadores[0].textContex = "Contagem Regressiva"
+    contadores[0].textContex = "Contagem Regressiva":
